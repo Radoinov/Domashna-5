@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Domashna 5\Domashna 5\bin\Debug\net8.0\Prebroqvane na elementi.exe
+C:\Users\User\source\repos\Domashna 5\Domashna 5\bin\Debug\net8.0\Prebroqvane na elementi.deps.json
+C:\Users\User\source\repos\Domashna 5\Domashna 5\bin\Debug\net8.0\Prebroqvane na elementi.runtimeconfig.json
+C:\Users\User\source\repos\Domashna 5\Domashna 5\bin\Debug\net8.0\Prebroqvane na elementi.dll
+C:\Users\User\source\repos\Domashna 5\Domashna 5\bin\Debug\net8.0\Prebroqvane na elementi.pdb
+C:\Users\User\source\repos\Domashna 5\Domashna 5\obj\Debug\net8.0\Prebroqvane na elementi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Domashna 5\Domashna 5\obj\Debug\net8.0\Prebroqvane na elementi.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Domashna 5\Domashna 5\obj\Debug\net8.0\Prebroqvane na elementi.AssemblyInfo.cs
+C:\Users\User\source\repos\Domashna 5\Domashna 5\obj\Debug\net8.0\Prebroqvane na elementi.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Domashna 5\Domashna 5\obj\Debug\net8.0\Prebroqvane na elementi.dll
+C:\Users\User\source\repos\Domashna 5\Domashna 5\obj\Debug\net8.0\refint\Prebroqvane na elementi.dll
+C:\Users\User\source\repos\Domashna 5\Domashna 5\obj\Debug\net8.0\Prebroqvane na elementi.pdb
+C:\Users\User\source\repos\Domashna 5\Domashna 5\obj\Debug\net8.0\Prebroqvane na elementi.genruntimeconfig.cache
+C:\Users\User\source\repos\Domashna 5\Domashna 5\obj\Debug\net8.0\ref\Prebroqvane na elementi.dll

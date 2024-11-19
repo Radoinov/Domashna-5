@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Domashna 5\Proverka za sydyrjanie\bin\Debug\net8.0\Proverka za sydyrjanie.exe
+C:\Users\User\source\repos\Domashna 5\Proverka za sydyrjanie\bin\Debug\net8.0\Proverka za sydyrjanie.deps.json
+C:\Users\User\source\repos\Domashna 5\Proverka za sydyrjanie\bin\Debug\net8.0\Proverka za sydyrjanie.runtimeconfig.json
+C:\Users\User\source\repos\Domashna 5\Proverka za sydyrjanie\bin\Debug\net8.0\Proverka za sydyrjanie.dll
+C:\Users\User\source\repos\Domashna 5\Proverka za sydyrjanie\bin\Debug\net8.0\Proverka za sydyrjanie.pdb
+C:\Users\User\source\repos\Domashna 5\Proverka za sydyrjanie\obj\Debug\net8.0\Proverka za sydyrjanie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Domashna 5\Proverka za sydyrjanie\obj\Debug\net8.0\Proverka za sydyrjanie.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Domashna 5\Proverka za sydyrjanie\obj\Debug\net8.0\Proverka za sydyrjanie.AssemblyInfo.cs
+C:\Users\User\source\repos\Domashna 5\Proverka za sydyrjanie\obj\Debug\net8.0\Proverka za sydyrjanie.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Domashna 5\Proverka za sydyrjanie\obj\Debug\net8.0\Proverka za sydyrjanie.dll
+C:\Users\User\source\repos\Domashna 5\Proverka za sydyrjanie\obj\Debug\net8.0\refint\Proverka za sydyrjanie.dll
+C:\Users\User\source\repos\Domashna 5\Proverka za sydyrjanie\obj\Debug\net8.0\Proverka za sydyrjanie.pdb
+C:\Users\User\source\repos\Domashna 5\Proverka za sydyrjanie\obj\Debug\net8.0\Proverka za sydyrjanie.genruntimeconfig.cache
+C:\Users\User\source\repos\Domashna 5\Proverka za sydyrjanie\obj\Debug\net8.0\ref\Proverka za sydyrjanie.dll

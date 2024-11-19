@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Domashna 5\Vmykvane na element\bin\Debug\net8.0\Vmykvane na element.exe
+C:\Users\User\source\repos\Domashna 5\Vmykvane na element\bin\Debug\net8.0\Vmykvane na element.deps.json
+C:\Users\User\source\repos\Domashna 5\Vmykvane na element\bin\Debug\net8.0\Vmykvane na element.runtimeconfig.json
+C:\Users\User\source\repos\Domashna 5\Vmykvane na element\bin\Debug\net8.0\Vmykvane na element.dll
+C:\Users\User\source\repos\Domashna 5\Vmykvane na element\bin\Debug\net8.0\Vmykvane na element.pdb
+C:\Users\User\source\repos\Domashna 5\Vmykvane na element\obj\Debug\net8.0\Vmykvane na element.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Domashna 5\Vmykvane na element\obj\Debug\net8.0\Vmykvane na element.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Domashna 5\Vmykvane na element\obj\Debug\net8.0\Vmykvane na element.AssemblyInfo.cs
+C:\Users\User\source\repos\Domashna 5\Vmykvane na element\obj\Debug\net8.0\Vmykvane na element.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Domashna 5\Vmykvane na element\obj\Debug\net8.0\Vmykvane na element.dll
+C:\Users\User\source\repos\Domashna 5\Vmykvane na element\obj\Debug\net8.0\refint\Vmykvane na element.dll
+C:\Users\User\source\repos\Domashna 5\Vmykvane na element\obj\Debug\net8.0\Vmykvane na element.pdb
+C:\Users\User\source\repos\Domashna 5\Vmykvane na element\obj\Debug\net8.0\Vmykvane na element.genruntimeconfig.cache
+C:\Users\User\source\repos\Domashna 5\Vmykvane na element\obj\Debug\net8.0\ref\Vmykvane na element.dll
